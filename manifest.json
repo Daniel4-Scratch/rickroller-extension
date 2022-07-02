@@ -21,6 +21,12 @@
       "js": ["script.js"]
     }
   ],
-  "web_accessible_resources": ["popup.html"]
+  "web_accessible_resources": ["popup.html"],
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "llama552621@gmail.com"
+    }
+  }
 
 }
